@@ -349,9 +349,9 @@ rayapricot:~/workspace/project2-server-app (master) $
 
 ## Rubyや課題に関して、難しかったこと・分からなかったこと
 
-（ここに書く）
+
 
 ## Rubyを触ってみた・課題をやってみた感想
 
-（ここに書く）
+Rubyを初めて触ったのですが，初心者の自分でも書きやすいと感じました．
 
